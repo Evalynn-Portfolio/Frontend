@@ -1,0 +1,2 @@
+C:\Users\Evalynn Kootstra\Documents\GitHub\Frontend\Portfolio-Frontend\Portfolio-Frontend\obj\Debug\portfolio-frontend.esproj.SuggestedBindingRedirects.cache
+C:\Users\Evalynn Kootstra\Documents\GitHub\Frontend\Portfolio-Frontend\Portfolio-Frontend\obj\Debug\portfolio-frontend.esproj.CoreCompileInputs.cache
